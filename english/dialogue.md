@@ -39,9 +39,7 @@ which contains a goal constraint, a set of requested slots, and the user's dialo
 
 ### Second dialogue state tracking challenge
 
-For goal-oriented dialogue, the dataset of the [second Dialogue Systems Technology Challenges](http://www.aclweb.org/anthology/W14-4337)
-(DSTC2) is a common evaluation dataset. The DSTC2 focuses on the restaurant search domain. Models are
-evaluated based on accuracy on both individual and joint slot tracking.
+For goal-oriented dialogue, the dataset of the second Dialogue Systems Technology Challenges [paper](http://www.aclweb.org/anthology/W14-4337) and [dataset](http://camdial.org/~mh521/dstc/) (DSTC2) is a common evaluation dataset. The DSTC2 focuses on the restaurant search domain. Models are evaluated based on accuracy on both individual and joint slot tracking.
 
 | Model           | Request | Area  |  Food  |  Price  |  Joint  |  Paper / Source |
 | ------------- | :-----: | :-----:| :-----:| :-----:| :-----:| --- |
